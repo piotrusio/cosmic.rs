@@ -1,2 +1,2 @@
 # cosmic.rs
-cosmicpython implementation in rust
+cosmicpython implementation in rust (wip)
